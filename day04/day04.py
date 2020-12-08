@@ -13,6 +13,7 @@ for passport in passports:
 
 print("Valid passports:", valid_passports)
 
+
 print("Part 2")
 
 
